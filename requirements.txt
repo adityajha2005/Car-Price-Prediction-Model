@@ -1,0 +1,10 @@
+pandas==1.5.3
+numpy==1.24.3
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.2.2
+
+Installing Dependencies
+To install the dependencies listed in the requirements.txt file, run the following command in your terminal:
+
+'pip install -r requierements.txt'

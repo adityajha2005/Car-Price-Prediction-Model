@@ -9,12 +9,7 @@ This project aims to build a machine learning model to predict car prices based 
 
 ## Installation
 
-Ensure you have the following libraries installed:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
+Ensure you have the #requirements.txt libraries installed
 ## Libraries Used
 
 - **pandas**: For data manipulation and analysis.
